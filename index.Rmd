@@ -1,38 +1,47 @@
 ---
-title: "Francesco Nowell"
+title: "Hello!"
 output: 
   html_document:
     toc: FALSE
 ---
 
+<div>
+  <img style="vertical-align:middle" src="cvpic.jpg" width = "300">
+</div>
 
 
 email: nowell at tu-berlin dot de 
 
-address: 
+address: Str. des 17. Juni 136, Berlin 10587
 
 
-**Welcome!**
+# About 
+I am a PhD student at TU Berlin, working under the joint supervision of [Carlos Améndola](https://luke-amendola.appspot.com/) and [Ben Hollering](https://sites.google.com/view/benhollering) as part of the ["Combinatorial Methods for Learning Max-Linear Bayesian Networks"](https://www.combinatorial-synergies.de/projects/?elem=Combinatorial-Methods-for-Learning-Max-Linear-Bayesian-Networks) project of the "Combinatorial Synergies" DFG priority programme (SPP 2458). 
 
-Under construction! 
+I obtained my master's degree in mathematics in 2024, also at TU Berlin. I wrote my thesis on the Gröbner walk algorithm ([pdf](nowell_master.pdf)).
 
-# Research Interests    
-
-...
-
+My main research interests are in the areas of discrete geometry, combinatorics,  and computational algebra. More recent interests include algebraic statistics and the development of mathematical software. 
 
 # Publications
 
-Publications with [links](https://arxiv.org)
+- 
 
 # Software 
+- [Kamillo Ferry](https://kafe.dev) and I are developing the [GroebnerWalk](https://github.com/ooinaruhugh/GroebnerWalk.jl) julia package, which implements several versions of the Gröbner walk in OSCAR.
 
-Something about the Gröbner walk
+# Activities   
 
-# Events  
+Upcoming
 
-## Upcoming
+- 11-13.09.24 Combinatorial Synergies kick-off conference, Osnabrück 
 
-## Past 
+- 04-08.11.24 Eurandom workshop on graph Laplacians, multivariate extremes and algebraic statistics, Eindhoven 
 
+Past 
+
+- 29.07.24 - 02.08.24 MEGA Leipzig. Software presentation: The GröbnerWalk package ([slides](GWalk_presentation_MEGA.pdf), [jupyter notebook](MEGA_notebook.ipynb)) 
+
+- 02.07.2024 OSCAR Bootcamp, TU Berlin 
+
+- 10-12.04.24 5th graduate student meeting in applied algebra and combinatorics, FU Berlin
 

@@ -1,11 +1,8 @@
 name: "Mywebsite"
 title: "Homepage of Francesco Nowell"
 type: inverse
-left:
-  - text: "About me"
-    menu:
-      - text: "Learn more about me"
-        href: ./aboutme.html
 right:
   - icon: fa-github fa-lg
-    href: https://github.com/Ortfs
+    href: https://github.com/fpnowell
+  - icon: fa-brands fa-orcid
+    href: https://orcid.org/0009-0005-0183-2225 
