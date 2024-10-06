@@ -34,11 +34,13 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 Upcoming
 
-- 11-13.09.24 Combinatorial Synergies kick-off conference, Osnabrück 
+- 11-12.10.2024 Symposium Discrete Mathematics, TU Berlin
 
 - 04-08.11.24 Eurandom workshop on graph Laplacians, multivariate extremes and algebraic statistics, Eindhoven 
 
 Past 
+
+- 11-13.09.24 Combinatorial Synergies kick-off conference, Osnabrück 
 
 - 29.07.24 - 02.08.24 MEGA Leipzig. Software presentation: The GröbnerWalk package ([slides](GWalk_presentation_MEGA.pdf), [jupyter notebook](MEGA_notebook.ipynb)) 
 
