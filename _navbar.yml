@@ -4,5 +4,7 @@ type: inverse
 right:
   - icon: fa-github fa-lg
     href: https://github.com/fpnowell
+    title: "Francesco Nowell's GitHub" 
   - icon: fa-brands fa-orcid
     href: https://orcid.org/0009-0005-0183-2225 
+    title: "Francesco Nowell's ORCID profile" 

@@ -4,8 +4,9 @@ output:
   html_document:
     theme: readable
     highlight: zenburn
-    css: custom.css
     toc: true
     toc_depth: 2
     toc_float:
       collapsed: false
+    includes: 
+      in_header: custom_header.html
