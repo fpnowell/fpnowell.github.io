@@ -13,19 +13,18 @@ output:
 
 email: nowell at tu-berlin dot de 
 
-address: Str. des 17. Juni 136, Berlin 10587
-
+address: E217, Str. des 17. Juni 136, Berlin 10587
 
 # About 
 I am a PhD student at TU Berlin, working under the joint supervision of [Carlos Améndola](https://luke-amendola.appspot.com/) and [Ben Hollering](https://sites.google.com/view/benhollering) as part of the ["Combinatorial Methods for Learning Max-Linear Bayesian Networks"](https://www.combinatorial-synergies.de/projects/?elem=Combinatorial-Methods-for-Learning-Max-Linear-Bayesian-Networks) project of the "Combinatorial Synergies" DFG priority programme (SPP 2458). 
 
-I obtained my master's degree in mathematics in 2024, also at TU Berlin. I wrote my thesis on the Gröbner walk algorithm ([pdf](nowell_master.pdf)).
+I obtained my master's degree in mathematics in 2024, also at TU Berlin. I wrote my thesis on the Gröbner walk algorithms ([pdf](https://doi.org/10.14279/depositonce-23024)).
 
 My main research interests are in the areas of discrete geometry, combinatorics,  and computational algebra. More recent interests include algebraic statistics and the development of mathematical software. 
 
-# Publications
+# Publications and preprints
 
-- 
+- [The GröbnerWalk.jl package for OSCAR](https://arxiv.org/abs/2503.09254) (with K.Ferry). 
 
 # Software 
 - [Kamillo Ferry](https://kafe.dev) and I are developing the [GroebnerWalk](https://github.com/ooinaruhugh/GroebnerWalk.jl) julia package, which implements several versions of the Gröbner walk in OSCAR.
@@ -36,6 +35,8 @@ Upcoming
 
 - 19-21.03.25 [Combinatorial Synergies East](https://www.mis.mpg.de/events/series/combinatorial-synergies-east), Leipzig
 - 24-28.03.25 [Algebraic Statistics](https://sites.google.com/view/algstat2025/home), Munich
+- 28-30.04.25 [6th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac25/home?authuser=0), Bologna.
+- 07-11.07.25 [SIAM AG2](https://www.siam.org/conferences-events/siam-conferences/ag25/), Madison (WC). Mini-symposium presentation: The Gröbner Walk in OSCAR 
 
 
 Past 
