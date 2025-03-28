@@ -35,7 +35,7 @@ Upcoming
 
 - 28-30.04.25 [6th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac25/home?authuser=0), Bologna.
 
-- 07-11.07.25 [SIAM AG2](https://www.siam.org/conferences-events/siam-conferences/ag25/), Madison (WC). Mini-symposium presentation: The Gröbner Walk in OSCAR 
+- 07-11.07.25 [SIAM AG25](https://www.siam.org/conferences-events/siam-conferences/ag25/), Madison (WC). Mini-symposium presentation: The Gröbner Walk in OSCAR 
 
 
 Past 
