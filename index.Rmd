@@ -40,9 +40,9 @@ Upcoming
 
 Past 
 
-- 19-21.03.25 [Combinatorial Synergies East](https://www.mis.mpg.de/events/series/combinatorial-synergies-east), Leipzig
-
 - 24-28.03.25 [Algebraic Statistics](https://sites.google.com/view/algstat2025/home), Munich
+
+- 19-21.03.25 [Combinatorial Synergies East](https://www.mis.mpg.de/events/series/combinatorial-synergies-east), Leipzig
 
 - 04-08.11.24 Eurandom workshop on graph Laplacians, multivariate extremes and algebraic statistics, Eindhoven 
 
