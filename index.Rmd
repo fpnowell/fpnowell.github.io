@@ -24,6 +24,8 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 # Publications and preprints
 
+- [Polyhedral Aspects of Maxoids](https://arxiv.org/abs/2504.21068) (with T.Boege, B.Hollering, K.Ferry). 
+
 - [The GröbnerWalk.jl package for OSCAR](https://arxiv.org/abs/2503.09254) (with K.Ferry). 
 
 # Software 
@@ -33,12 +35,16 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 Upcoming
 
-- 28-30.04.25 [6th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac25/home?authuser=0), Bologna.
 
-- 07-11.07.25 [SIAM AG25](https://www.siam.org/conferences-events/siam-conferences/ag25/), Madison (WC). Mini-symposium presentation: The Gröbner Walk in OSCAR 
+- 04-07.06.25 [WUPES'25](https://wupes.utia.cas.cz/2025/), Třešť (CZ).
+
+
+- 07-11.07.25 [SIAM AG25](https://www.siam.org/conferences-events/siam-conferences/ag25/), Madison (WI). Mini-symposium presentation: The Gröbner Walk in OSCAR 
 
 
 Past 
+
+- 28-30.04.25 [6th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac25/home?authuser=0), Bologna.
 
 - 24-28.03.25 [Algebraic Statistics](https://sites.google.com/view/algstat2025/home), Munich
 
