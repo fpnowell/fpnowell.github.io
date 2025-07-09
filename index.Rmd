@@ -35,13 +35,12 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 Upcoming
 
-- 19.06.2025 [Dies Mathematicus](https://www.static.tu.berlin/fileadmin/www/40000209/programm_vortraege.pdf), TU Berlin ([slides](GWalk_DIES.pdf), [notebook](DIES_notebook.ipynb))
-
-- 07-11.07.25 [SIAM AG25](https://www.siam.org/conferences-events/siam-conferences/ag25/), Madison (WI). Mini-symposium presentation: The Gröbner Walk in OSCAR 
+- 10.07.2025 Discrete Geometry III lecture:Applications of Gröbner fans, TU Berlin ([slides](DG3.pdf), [notebook](DG3.ipynb))
 
 
 Past 
 
+- 19.06.2025 [Dies Mathematicus](https://www.static.tu.berlin/fileadmin/www/40000209/programm_vortraege.pdf), TU Berlin ([slides](GWalk_DIES.pdf), [notebook](DIES_notebook.ipynb))
 
 - 04-07.06.25 [WUPES'25](https://wupes.utia.cas.cz/2025/), Třešť (CZ).
 
