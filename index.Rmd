@@ -35,16 +35,21 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 Upcoming
 
-- 10.07.2025 Discrete Geometry III lecture:Applications of Gröbner fans, TU Berlin ([slides](DG3.pdf), [notebook](DG3.ipynb))
+- 20.08.2025 Invited Talk at the "Institute for Data Science Foundations" seminar, TU Hamburg 
 
+- 28.08.-02.09.2025 [Summer School on Nonlinear Optimization and Combinatorics](http://www.iaa.tu-bs.de/AppliedAlgebra/SummerSchool2025/Summer_school_2025.html), TU Braunschweig
+
+- 03-05.09.2025 [Combinatorial Synergies Annual Conference](https://www.combinatorial-synergies.de/activities/2025-09_AnnualConference/), Hannover
 
 Past 
+
+- 10.07.2025 Discrete Geometry III lecture:Applications of Gröbner fans, TU Berlin ([slides](DG3.pdf), [notebook](DG3.ipynb))
 
 - 19.06.2025 [Dies Mathematicus](https://www.static.tu.berlin/fileadmin/www/40000209/programm_vortraege.pdf), TU Berlin ([slides](GWalk_DIES.pdf), [notebook](DIES_notebook.ipynb))
 
 - 04-07.06.25 [WUPES'25](https://wupes.utia.cas.cz/2025/), Třešť (CZ).
 
-- 28-30.04.25 [6th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac25/home?authuser=0), Bologna.
+- 28-30.04.25 [6th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac25/home?authuser=0), Bologna
 
 - 24-28.03.25 [Algebraic Statistics](https://sites.google.com/view/algstat2025/home), Munich
 
@@ -56,7 +61,7 @@ Past
 
 - 11-13.09.24 Combinatorial Synergies kick-off conference, Osnabrück 
 
-- 29.07.24 - 02.08.24 MEGA Leipzig. Software presentation: The GröbnerWalk package ([slides](GWalk_presentation_MEGA.pdf), [jupyter notebook](MEGA_notebook.ipynb)) 
+- 29.07.24 - 02.08.24 MEGA Leipzig. Software presentation: The GröbnerWalk package ([slides](GWalk_presentation_MEGA.pdf), [notebook](MEGA_notebook.ipynb)) 
 
 - 02.07.24 OSCAR Bootcamp, TU Berlin 
 
