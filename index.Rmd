@@ -24,26 +24,30 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 # Publications and preprints
 
+- [A PC Algorithm for Max-Linear Bayesian Networks](https://arxiv.org/abs/2508.13967) (with C.Améndola, B.Hollering)
+
 - [Polyhedral Aspects of Maxoids](https://arxiv.org/abs/2504.21068) (with T.Boege, B.Hollering, K.Ferry). 
 
 - [The GröbnerWalk.jl package for OSCAR](https://arxiv.org/abs/2503.09254) (with K.Ferry). 
 
 # Software 
+
+- [This](https://github.com/fpnowell/starskeleton) github repo contains code for separation criteria and causal discovery in Max-Linear Bayesian Networks. 
+
 - [Kamillo Ferry](https://kafe.dev) and I are developing the [GroebnerWalk](https://github.com/ooinaruhugh/GroebnerWalk.jl) julia package, which implements several versions of the Gröbner walk in OSCAR.
 
 # Activities   
 
 Upcoming
 
-- 20.08.2025 Invited Talk at the "Institute for Data Science Foundations" seminar, TU Hamburg 
-
-- 28.08.-02.09.2025 [Summer School on Nonlinear Optimization and Combinatorics](http://www.iaa.tu-bs.de/AppliedAlgebra/SummerSchool2025/Summer_school_2025.html), TU Braunschweig
 
 - 03-05.09.2025 [Combinatorial Synergies Annual Conference](https://www.combinatorial-synergies.de/activities/2025-09_AnnualConference/), Hannover
 
 Past 
 
-- 10.07.2025 Discrete Geometry III lecture:Applications of Gröbner fans, TU Berlin ([slides](DG3.pdf), [notebook](DG3.ipynb))
+- 20.08.2025 Invited Talk at the "Institute for Data Science Foundations" seminar, TU Hamburg ([slides](PC_presentation.pdf))
+
+- 10.07.2025 Discrete Geometry III lecture: Applications of Gröbner fans, TU Berlin ([slides](DG3.pdf), [notebook](DG3.ipynb))
 
 - 19.06.2025 [Dies Mathematicus](https://www.static.tu.berlin/fileadmin/www/40000209/programm_vortraege.pdf), TU Berlin ([slides](GWalk_DIES.pdf), [notebook](DIES_notebook.ipynb))
 
