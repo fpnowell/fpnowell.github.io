@@ -11,7 +11,7 @@ output:
 </div>
 
 
-email: nowell at tu-berlin dot de 
+email: nowell at math dot tu-berlin dot de 
 
 address: Room E217, Str. des 17. Juni 136, Berlin 10587
 
@@ -40,12 +40,18 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 Upcoming
 
-- 20-23.01.26 [Recent Developments on Lattice Polytopes](https://www.mis.mpg.de/events/series/recent-developments-on-lattice-polytopes-in-leipzig), MPI-MiS Leipzig
+- 12-13.03.26 [AlgStat2026](https://www.mathconf.org/algstat2026), Université Lille (FR). Invited talk 
+
+- 16-20.03.26 [Polyhedral Geometry for Neural Networks](https://neuralpolytopes.gitlab.io/workshop2026/), Nuremberg. Poster presentation 
+
+- 01-05.06.26 [ACA2026](https://aca2026kosovo.net/SS2/), Prishtina (Kosovo). Invited talk 
 
 - 10.08-18.09.26 Dive into Research (TA), MPI-CBG Dresden 
 
 
 Past (selected)
+
+- 20-23.01.26 [Recent Developments on Lattice Polytopes](https://www.mis.mpg.de/events/series/recent-developments-on-lattice-polytopes-in-leipzig), MPI-MiS Leipzig
 
 - 03-05.09.25 [Combinatorial Synergies Annual Conference](https://www.combinatorial-synergies.de/activities/2025-09_AnnualConference/), Hannover
 
