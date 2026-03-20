@@ -28,7 +28,7 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 - [Polyhedral Aspects of Maxoids](https://arxiv.org/abs/2504.21068) (with T.Boege, B.Hollering, K.Ferry)
 
-- [The GröbnerWalk.jl package for OSCAR](https://arxiv.org/abs/2503.09254) (with K.Ferry) 
+- [The GröbnerWalk.jl package for OSCAR](https://arxiv.org/abs/2503.09254) (with K.Ferry) - Accepted into the Journal of Software for Algebra and Geometry (JSAG)
 
 # Software 
 
@@ -40,20 +40,20 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 Upcoming
 
-- 12-13.03.26 [AlgStat2026](https://www.mathconf.org/algstat2026), Université Lille (FR). Invited talk 
-
-- 16-20.03.26 [Polyhedral Geometry for Neural Networks](https://neuralpolytopes.gitlab.io/workshop2026/), Nuremberg. Poster presentation 
+- 04-08.05.26 [Young Researchers Conference on Combinatorial Synergies](https://mathconf.eu/yrccs-2026/), Berlin.
 
 - 01-05.06.26 [ACA2026](https://aca2026kosovo.net/SS2/), Prishtina (Kosovo). Invited talk 
+
+- 22-25.06.26 [Discrete Laplacians](plan.events.mpg.de/event/617/), Dresden. 
 
 - 10.08-18.09.26 Dive into Research (TA), MPI-CBG Dresden 
 
 
 Past (selected)
 
-- 20-23.01.26 [Recent Developments on Lattice Polytopes](https://www.mis.mpg.de/events/series/recent-developments-on-lattice-polytopes-in-leipzig), MPI-MiS Leipzig
+- 16-20.03.26 [Polyhedral Geometry for Neural Networks](https://neuralpolytopes.gitlab.io/workshop2026/), Nuremberg. Poster presentation
 
-- 03-05.09.25 [Combinatorial Synergies Annual Conference](https://www.combinatorial-synergies.de/activities/2025-09_AnnualConference/), Hannover
+- 12-13.03.26 [AlgStat2026](https://www.mathconf.org/algstat2026), Université Lille (FR). Invited talk ([slides](Maxoids_presentation_Lille_1.pdf)) 
 
 - 20.08.25 Invited Talk at the "Institute for Data Science Foundations" seminar, TU Hamburg ([slides](PC_presentation.pdf))
 
