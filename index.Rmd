@@ -44,7 +44,7 @@ Upcoming
 
 - 01-05.06.26 [ACA2026](https://aca2026kosovo.net/SS2/), Prishtina (Kosovo). Invited talk 
 
-- 22-25.06.26 [Discrete Laplacians](plan.events.mpg.de/event/617/), Dresden. 
+- 22-25.06.26 [Discrete Laplacians](https://plan.events.mpg.de/event/617/), Dresden. 
 
 - 10.08-18.09.26 Dive into Research (TA), MPI-CBG Dresden 
 
