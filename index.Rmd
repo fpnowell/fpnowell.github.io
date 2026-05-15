@@ -24,7 +24,7 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 # Publications and preprints
 
-- [A PC Algorithm for Max-Linear Bayesian Networks](https://arxiv.org/abs/2508.13967) (with C.Améndola, B.Hollering)
+- [A PC Algorithm for Max-Linear Bayesian Networks](https://arxiv.org/abs/2508.13967) (with C.Améndola, B.Hollering) - Accepted into the Journal of Computational and Graphical Statistics 
 
 - [Polyhedral Aspects of Maxoids](https://arxiv.org/abs/2504.21068) (with T.Boege, B.Hollering, K.Ferry)
 
@@ -40,13 +40,11 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 Upcoming
 
-- 04-08.05.26 [Young Researchers Conference on Combinatorial Synergies](https://mathconf.eu/yrccs-2026/), Berlin.
-
 - 01-05.06.26 [ACA2026](https://aca2026kosovo.net/SS2/), Prishtina (Kosovo). Invited talk 
 
-- 22-25.06.26 [Discrete Laplacians](https://plan.events.mpg.de/event/617/), Dresden. 
+- 22-25.06.26 [Discrete Laplacians](https://plan.events.mpg.de/event/617/), MPI-CBG Dresden
 
-- 10.08-18.09.26 Dive into Research (TA), MPI-CBG Dresden 
+- 10.08-18.09.26 [Dive into Research](https://sites.google.com/view/aidamaraj/dresdendir), MPI-CBG Dresden. Teaching Assistant
 
 
 Past (selected)
@@ -55,13 +53,13 @@ Past (selected)
 
 - 12-13.03.26 [AlgStat2026](https://www.mathconf.org/algstat2026), Université Lille (FR). Invited talk ([slides](Maxoids_presentation_Lille_1.pdf)) 
 
-- 20.08.25 Invited Talk at the "Institute for Data Science Foundations" seminar, TU Hamburg ([slides](PC_presentation.pdf))
+- 20.08.25 "Institute for Data Science Foundations" research seminar, TU Hamburg. Invited talk ([slides](PC_presentation.pdf))
 
 - 10.07.25 Discrete Geometry III lecture: Applications of Gröbner fans, TU Berlin ([slides](DG3.pdf), [notebook](DG3.ipynb))
 
 - 19.06.25 [Dies Mathematicus](https://www.static.tu.berlin/fileadmin/www/40000209/programm_vortraege.pdf), TU Berlin ([slides](GWalk_DIES.pdf), [notebook](DIES_notebook.ipynb))
 
-- 04-07.06.25 [WUPES'25](https://wupes.utia.cas.cz/2025/), Třešť (CZ).
+- 04-07.06.25 [WUPES'25](https://wupes.utia.cas.cz/2025/), Třešť (CZ)
 
 - 11-13.09.24 Combinatorial Synergies kick-off conference, Osnabrück 
 
