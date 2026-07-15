@@ -13,7 +13,7 @@ output:
 
 email: nowell at math dot tu-berlin dot de 
 
-address: Room E217, Str. des 17. Juni 136, Berlin 10587
+address: Room MA768, Str. des 17. Juni 136, Berlin 10587
 
 # About 
 I am a PhD student at TU Berlin, working under the joint supervision of [Carlos Améndola](https://luke-amendola.appspot.com/) and [Ben Hollering](https://sites.google.com/view/benhollering) as part of the ["Combinatorial Methods for Learning Max-Linear Bayesian Networks"](https://www.combinatorial-synergies.de/projects/?elem=Combinatorial-Methods-for-Learning-Max-Linear-Bayesian-Networks) project of the "Combinatorial Synergies" DFG priority programme (SPP 2458). 
@@ -24,11 +24,13 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 # Publications and preprints
 
-- [A PC Algorithm for Max-Linear Bayesian Networks](https://arxiv.org/abs/2508.13967) (with C.Améndola, B.Hollering) - Accepted into the Journal of Computational and Graphical Statistics 
+- A Stronger Calculus of Intervention for Max-Linear Bayesian Networks (with N.Ay, L. Sierau) - To appear in the proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence (UAI'26) 
 
-- [Polyhedral Aspects of Maxoids](https://arxiv.org/abs/2504.21068) (with T.Boege, B.Hollering, K.Ferry)
+- A PC Algorithm for Max-Linear Bayesian Networks (with C.Améndola, B.Hollering) - JCGS. [arxiv](https://arxiv.org/abs/2508.13967),  [journal](https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2673046#abstract) 
 
-- [The GröbnerWalk.jl package for OSCAR](https://arxiv.org/abs/2503.09254) (with K.Ferry) - Accepted into the Journal of Software for Algebra and Geometry (JSAG)
+- Polyhedral Aspects of Maxoids (with T.Boege, B.Hollering, K.Ferry) - To appear in Kybernetika. [arxiv](https://arxiv.org/abs/2504.21068)
+
+- The GröbnerWalk.jl package for OSCAR (with K.Ferry) - JSAG. [arxiv](https://arxiv.org/abs/2503.09254), [journal](https://msp.org/jsag/2026/16-1/p02.xhtml)
 
 # Software 
 
@@ -40,14 +42,25 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 Upcoming
 
-- 01-05.06.26 [ACA2026](https://aca2026kosovo.net/SS2/), Prishtina (Kosovo). Invited talk 
-
-- 22-25.06.26 [Discrete Laplacians](https://plan.events.mpg.de/event/617/), MPI-CBG Dresden
 
 - 10.08-18.09.26 [Dive into Research](https://sites.google.com/view/aidamaraj/dresdendir), MPI-CBG Dresden. Teaching Assistant
 
+- 31.08-04.09.26 [INABAG'26](https://sites.google.com/unitn.it/inabag/inabag-conferences/2026-school-conference-siena), Siena (IT). 
+
+- 14.-16.09.26 [Combinatorial Synergies Annual Conference](https://www.combinatorial-synergies.de/activities/2026-09_AnnualConference/), Frankfurt. 
+
+
+- 27.-29.01.27 [The 8th Graduate Student Meeting in Applied Algebra and Combinatorics (GSMAAC)](https://www.mis.mpg.de/events/series/the-8th-graduate-student-meeting-in-applied-algebra-and-combinatorics-gsmaac), Leipzig. 
+
+- 01.-05.03.27 [Algebraic Statistics '27](https://www.algebraicstatistics.org/2027/index.html#venue), Magdeburg.
+ 
+- 07.-09.04.27 Eurandom Workshop on Probabilistic Graphical Models. Eindhoven (NL)
+
+
 
 Past (selected)
+
+- 01-05.06.26 [ACA2026](https://aca2026kosovo.net/SS2/), Prishtina (Kosovo). Invited talk 
 
 - 16-20.03.26 [Polyhedral Geometry for Neural Networks](https://neuralpolytopes.gitlab.io/workshop2026/), Nuremberg. Poster presentation
 
