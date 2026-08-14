@@ -24,7 +24,7 @@ My main research interests are in the areas of discrete geometry, combinatorics,
 
 # Publications and preprints
 
-- A Stronger Calculus of Intervention for Max-Linear Bayesian Networks (with N.Ay, L. Sierau) - To appear in the proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence (UAI'26) 
+- A Stronger Calculus of Intervention for Max-Linear Bayesian Networks (with N.Ay, L. Sierau) - The proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence (UAI'26) [journal](https://proceedings.mlr.press/v337/sierau26a.html) 
 
 - A PC Algorithm for Max-Linear Bayesian Networks (with C.Améndola, B.Hollering) - JCGS. [arxiv](https://arxiv.org/abs/2508.13967),  [journal](https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2673046#abstract) 
 
